@@ -10,5 +10,5 @@
 
 ### Resources
 
-- (Tutorial)[https://docs.scrapy.org/en/latest/intro/tutorial.html]
-- (Data Pipeline)[https://docs.scrapy.org/en/latest/topics/item-pipeline.html]
+- [Tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+- [Data Pipeline](https://docs.scrapy.org/en/latest/topics/item-pipeline.html)
