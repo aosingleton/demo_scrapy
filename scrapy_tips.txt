@@ -1,0 +1,16 @@
+Initial Project
+scrapy startproject <project name>
+
+Initate Crawl
+scrapy crawl <spider name> will start the start_requests or start_urls function of spider inherited class
+
+Shell
+    scrapy shell <url >
+    example = scrapy shell 'http://quotes.toscrape.com/page/1/'
+
+Output
+Can output results of scrap to whatever file you want or location....for use with someting like aws
+    example = scrapy crawl quotes2 -o output.json
+
+JSON output cs JL output
+    Diference is that jl produces information as a stream...not as as full json file.
